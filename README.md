@@ -246,12 +246,12 @@ Each week folder contains:
 
 ##  Key Features
 
-- ✅ **Beginner-friendly**: Easy to understand code and explanations
-- ✅ **Comprehensive**: Covers all fundamental DSA concepts
-- ✅ **Well-documented**: Each file has detailed README
-- ✅ **Practical**: Real-world examples and applications
-- ✅ **Organized**: Week-by-week structured learning
-- ✅ **Complete**: 36+ code examples with explanations
+-  **Beginner-friendly**: Easy to understand code and explanations
+-  **Comprehensive**: Covers all fundamental DSA concepts
+-  **Well-documented**: Each file has detailed README
+-  **Practical**: Real-world examples and applications
+-  **Organized**: Week-by-week structured learning
+-  **Complete**: 36+ code examples with explanations
 
 ##  Technologies Used
 
